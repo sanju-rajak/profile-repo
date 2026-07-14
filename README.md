@@ -2,71 +2,83 @@
 
 # Hi 👋, I'm Sanju Rajak
 
-### 🚀 Full Stack Developer | Open Source Contributor | B.Tech CSE Student
+### 💻 MERN Stack Developer | Open Source Contributor | B.Tech CSE Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+Source+Contributor;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things🚀" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 **B.Tech Computer Science & Engineering (2023–2027)**
 
-💙 Passionate about **Full Stack Web Development**
+💻 Passionate **MERN Stack Developer**
 
-🌱 Currently learning **Advanced React, Next.js & Backend Development**
+🌱 Currently learning **Next.js, Advanced React & Backend Development**
 
-💻 Love building scalable web applications and contributing to Open Source.
+🚀 Love building scalable web applications and contributing to Open Source.
 
 🏆 **GSSoC 2026 Contributor**
+
+📍 Jabalpur, Madhya Pradesh, India
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/sanju-rajak"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<p align="center">
+
+<a href="https://github.com/sanju-rajak">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-<p>
+### 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
-<img src="https://skillicons.dev/icons?i=js"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+---
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+### ⚛️ MERN Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+---
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+### 🛠 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vscode,vite,npm" />
 
 </p>
 
@@ -74,54 +86,82 @@
 
 # 🚀 Featured Projects
 
-✨ WanderLust
+🌍 **WanderLust** — Full Stack Travel Booking Platform
 
-✨ UltimateHealth
+🏥 **UltimateHealth** — Healthcare Web Application
 
-✨ GST Calculator
+🧮 **GST Calculator** — React + Vite Project
 
-✨ Urban Green Heat Map
+🌳 **Urban Green Heat Map** — Environmental Tracking System
 
-✨ Portfolio Website
+💼 **Portfolio Website**
 
 ---
 
 # 🏆 Open Source
 
-- 🌟 GSSoC 2026 Contributor
-- 💙 EaseMotion CSS Contributor
-- 🚀 Actively contributing to GitHub Open Source Projects
+- 🌟 GirlScript Summer of Code 2026 Contributor
+- 🚀 EaseMotion CSS Contributor
+- 💙 Active GitHub Open Source Contributor
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sanju-rajak&theme=tokyonight&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanju-rajak&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanju-rajak&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanju-rajak&theme=tokyonight&layout=compact&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju-rajak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanju-rajak&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sanju-rajak&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanju-rajak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sanju-rajak&theme=tokyo-night)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanju-rajak&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sanju-rajak&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=sanju-rajak&color=blue)
-
 ### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Contribute. Repeat."* 🚀
 
 </div>
